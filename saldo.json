@@ -1,6 +1,11 @@
 {
   "6355550830": {
     "saldo": 90000,
-    "topup_history": []
+    "topup_history": [
+      {
+        "nominal": 30000,
+        "tanggal": "2025-11-27 17:15:53"
+      }
+    ]
   }
 }
